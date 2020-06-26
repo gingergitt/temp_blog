@@ -71,7 +71,7 @@ paginate_path:         /page-:num/
 
 
 # Customizaton
-# ========================================================================================
+# ========================================================================================e
 
 # Sidebar image and theme color of the site.
 accent_image:         /assets/img/sidebar2

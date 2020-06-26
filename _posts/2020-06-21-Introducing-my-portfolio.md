@@ -8,6 +8,8 @@ description: About me
 
 # About Me
 ## Download Resume (링크첨부)
-### 저에대해서 소개합니다!
+### My Education
+### My Skills
+### My Projects
 
 이력서 작성하기
