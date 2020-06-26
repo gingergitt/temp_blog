@@ -4,6 +4,7 @@ author: Nayoung
 title: About Me  
 date: 2020-06-22 12:20 -0600  
 description: About me
+tags: [About]
 ---  
 
 # About Me
